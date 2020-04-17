@@ -1,0 +1,14 @@
+{
+    "name": "zayze-amWiki-test",
+    "ver": "1.0",
+    "logo": "http://175.24.69.210/wp-content/uploads/2020/03/ttt2.jpg",
+    "page-mounts": false,
+    "testing": true,
+    "colour": "default",
+    "github-url": "https://github.com/TevinLi/amWiki",
+    "imports": [
+        "assets/test.css",
+        "assets/test.js"
+    ],
+    "library-prefix": "/admin/dev-wiki"
+}
